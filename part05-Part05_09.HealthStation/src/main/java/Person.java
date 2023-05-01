@@ -1,5 +1,5 @@
 /*
- *  Do not change the behavior of this class
+* class that has been used in this lesson on objects and reference. Please see MOOC Java Programming I part 5 for reference.
  */
 
 public class Person {
