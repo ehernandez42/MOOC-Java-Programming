@@ -2,7 +2,6 @@
 public class Main {
 
     public static void main(String[] args) {
-        // write experimental code here to check how your program functions
 
         HealthStation childrensHospital = new HealthStation();
         System.out.println("Health Station Check Up");
@@ -30,3 +29,6 @@ public class Main {
 
     }
 }
+
+
+//Runs as person with methods called on to show weight, the number of weighings that were performed, and can manipulate weight through feed() method
