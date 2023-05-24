@@ -33,10 +33,10 @@ public class SimpleCollection {
          }
 
         if (elements.size() == 1) {
-            return printOutput + "has " + elements.size() + " element:" + elementInCollection;
+            return printOutput + "has " + elements.size() + " element:" + "\n" + elementInCollection;
         }
 
-        return printOutput + "has " + elements.size() + " elements:" + elementInCollection;
+        return printOutput + "has " + elements.size() + " elements:" + "\n" + elementInCollection;
     }
     
 }
