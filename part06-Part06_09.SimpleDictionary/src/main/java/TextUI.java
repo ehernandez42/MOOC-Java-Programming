@@ -1,10 +1,10 @@
+//this code takes the work off of the Main class
 import java.util.Scanner;
-import java.util.ArrayList;
 public class TextUI {
     private Scanner scanner;
     private SimpleDictionary dictionary;
 
-
+    //takes the SimpleDictionary class in the same folder
     public TextUI (Scanner scanner, SimpleDictionary dictionary) {
         this.scanner = scanner;
         this.dictionary = dictionary;
